@@ -35,7 +35,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/facetrack.git
+   git clone https://github.com/synamalhan/facial-attendance.git
    cd facetrack
    ```
 
